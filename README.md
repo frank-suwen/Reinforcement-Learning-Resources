@@ -8,4 +8,4 @@
 * UCLA Introduction to Reinforcement Learning [GitHub](https://github.com/zhoubolei/introRL)
 
 ## Code
-* Some basic examples for reinforcement learning [GitHub](https://github.com/ucla-rlcourse/RLexample/tree/master#some-basic-examples-for-reinforcement-learning)
+* Some basic examples for reinforcement learning [GitHub](https://github.com/ucla-rlcourse/RLexample/tree/master)
