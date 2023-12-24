@@ -9,3 +9,10 @@
 
 ## Code
 * Some basic examples for reinforcement learning [GitHub](https://github.com/ucla-rlcourse/RLexample/tree/master)
+
+## Reinforcement Learning with Human Feedback
+* RLHF using pykoi [CambioML](https://www.cambioml.com/docs/rlhf.html)
+
+* Learning through human feedback [DeepMind](https://deepmind.google/discover/blog/learning-through-human-feedback/)
+
+* Learning from human preferences [OpenAI](https://openai.com/research/learning-from-human-preferences)
